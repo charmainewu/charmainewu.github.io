@@ -3,9 +3,11 @@
 -
   type: github
   icon: 'fab fa-github'
+  url:  'https://github.com/charmainewu'
 -
   type: twitter
   icon: 'fab fa-twitter'
+  url: 'https://twitter.com/jiamanwu1'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -20,11 +22,11 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  'https://fontawesome.com/'                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-# -
-#   type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/jiaman-wu-b7a205201/'         # Fill with your Linkedin homepage
+-
+  type: stack-overflow
+  icon: 'fab fa-stack-overflow'
+  url:  'https://stackoverflow.com/users/9474025/jiaman-wu'                  # Fill with your stackoverflow homepage
