@@ -2,7 +2,7 @@
 title: Efficiency or Fairness? Carpooling Design for Online Ride-hailing Platform in Transport Hubs at Midnight
 author: Chenbei Lu, Jiaman Wu, Chenye Wu, Yongli Qin, Qun Li, Nan Ma
 date: 2021-11-02 00:00:00 +0800
-categories: [Applied computing]
+categories: [Applied Computing]
 tags: [Carpool, Queueing Theory, Performance Evaluation, Optimization]
 pin: False
 ---
