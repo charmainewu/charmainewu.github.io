@@ -1,7 +1,7 @@
 ---
 title: About Me
 icon: fas fa-info-circle
-order: 0
+order: 1
 ---
 Jiaman is a Ph.D student majoring in System Engineering at the University of California, Berkeley. She loves **CS+Urban** researches and determines to advance her proficient understanding of urban practices by completing doctorate studies. She launched investigations on the **Energy System** and the **Transportation System** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
 
