@@ -17,13 +17,13 @@ Jiaman is a Ph.D student majoring in System Engineering at the University of Cal
 
 ## Education Background 
 
-* 2021.08-Present, Ph.D. in System Engineering, Dept. of CEE, University of California, Berkeley, Advisor: Prof. Marta C. Gonzalez.
-* 2018.09-2021.06, M.S. in Computer Science and Technology, IIIS, Tsinghua University.
-* 2014.09-2018.06, B.E. in Geographical Monitoring and Census, Dept. of Remote Sensing Information Engineering, Wuhan University.
+* Aug. 2021 - Present, Ph.D. in System Engineering, Dept. of CEE, University of California, Berkeley, Advisor: Prof. Marta C. Gonzalez.
+* Sep. 2018 - Jun. 2021, M.S. in Computer Science and Technology, IIIS, Tsinghua University.
+* Sep. 2014 - Jun. 2018, B.E. in Geographical Monitoring and Census, Dept. of Remote Sensing Information Engineering, Wuhan University.
 
 ## Employment
 
-* 2020.07-2021.06 Reseach Intern in DiDi Chuxing
+* Jul. 2020 - Jun. 2021 Reseach Intern in DiDi Chuxing
 
 ## Selected Publication
 
