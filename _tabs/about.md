@@ -25,6 +25,15 @@ Jiaman is a Ph.D student majoring in System Engineering at the University of Cal
 
 * 2020.07-2021.06 Reseach Intern in DiDi Chuxing
 
+## Selected Publication
+
+* **Wu, Jiaman**, Chenbei Lu, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, and Jun Fang. "Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform." In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers, pp. 684-690. 2021.
+* Lu, Chenbei, **Jiaman Wu**, Chenye Wu, Yongli Qin, Qun Li, and Nan Ma. "Efficiency or Fairness? Carpooling Design for Online Ride-hailing Platform in Transport Hubs at Midnight." In Proceedings of the 29th International Conference on Advances in Geographic Information Systems, pp. 244-255. 2021.
+* **Wu, Jiaman**, Zhiqi Wang, Chenye Wu, Kui Wang, and Yang Yu. "A Data-driven Storage Control Framework for Dynamic Pricing." IEEE Transactions on Smart Grid 12, no. 1 (2020): 737-750.
+* **Wu, Jiaman**, and Chenye Wu. "On the Double Auction Mechanism Design for Electricity Market." In 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), pp. 1-6. IEEE, 2020.
+* **Wu, Jiaman**, Zhiqi Wang, Yang Yu, and Chenye Wu. "Optimal Storage Control for Dynamic Pricing." In Proceedings of the Eleventh ACM International Conference on Future Energy Systems, pp. 395-397. 2020.
+
+
 ## Selected Awards and Honors
 
 * 2021 **Outstanding Graduates Award** from IIIS, Tsinghua University
