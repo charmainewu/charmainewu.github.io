@@ -3,7 +3,7 @@ title: About Me
 icon: fas fa-info-circle
 order: 1
 ---
-Jiaman is a Ph.D student majoring in System Engineering at the University of California, Berkeley. She loves **CS+Urban** researches and determines to advance her proficient understanding of urban practices by completing doctorate studies. She launched investigations on the **Energy System** and the **Transportation System** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
+Jiaman is a Ph.D student majoring in Systems Engineering at the University of California, Berkeley. She loves **CS+Urban** researches and determines to advance her proficient understanding of urban practices by completing doctorate studies. She launched investigations on the **Energy System** and the **Transportation System** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
 
 ## Research Interests
 
@@ -13,17 +13,21 @@ Jiaman is a Ph.D student majoring in System Engineering at the University of Cal
   
 * Application
     - Electric Vehicles and Smart Grid
-    - Human Mobility and Electricity Consumption Behavior
+    - Human Mobility and Energy Consumption Behavior
 
 ## Education Background 
 
-* Aug. 2021 - Present, Ph.D. in System Engineering, Dept. of CEE, University of California, Berkeley, Advisor: Prof. Marta C. Gonzalez.
+* Aug. 2021 - Present, Ph.D. in Systems Engineering, Dept. of CEE, University of California, Berkeley, Advisor: Prof. Marta C. Gonzalez.
 * Sep. 2018 - Jun. 2021, M.S. in Computer Science and Technology, IIIS, Tsinghua University.
 * Sep. 2014 - Jun. 2018, B.E. in Geographical Monitoring and Census, Dept. of Remote Sensing Information Engineering, Wuhan University.
 
 ## Employment
 
 * Jul. 2020 - Jun. 2021 Reseach Intern in DiDi Chuxing
+
+## Academic Service
+
+* Reviewer for The Power Systems Computation Conference (PSCC) 2022
 
 ## Selected Publication
 
