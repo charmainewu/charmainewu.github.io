@@ -23,7 +23,7 @@ Jiaman is a Ph.D student majoring in Systems Engineering at the University of Ca
 
 ## Employment
 
-* Jul. 2020 - Jun. 2021 Reseach Intern in DiDi Chuxing
+* Jul. 2020 - Jun. 2021 Research Intern in DiDi Chuxing
 
 ## Academic Service
 
