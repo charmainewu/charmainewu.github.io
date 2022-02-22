@@ -32,13 +32,13 @@ Jiaman is a Ph.D student majoring in Systems Engineering at the University of Ca
 
 ## Selected Publication
 
-* **Jiaman Wu**, Chenbei Lu, Chenye Wu. "Learning-Aided Framework for Storage Control Facing Renewable Energy", IEEE Systems Journal, 2022.
-* Chenbei Lu, **Jiaman Wu**, Chenye Wu. "Privacy-Preserving Decentralized Price Coordination for EV Charging Stations", Power Systems Computation Conference (PSCC 2022), 2022.
-* **Jiaman Wu**, Chenbei Lu, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, and Jun Fang. "Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform." In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers, 2021.
-* Chenbei Lu, **Jiaman Wu**, Chenye Wu, Yongli Qin, Qun Li, and Nan Ma. "Efficiency or Fairness? Carpooling Design for Online Ride-hailing Platform in Transport Hubs at Midnight." In Proceedings of the 29th International Conference on Advances in Geographic Information Systems, 2021.
-* **Jiaman Wu**, Zhiqi Wang, Chenye Wu, Kui Wang, and Yang Yu. "A Data-driven Storage Control Framework for Dynamic Pricing." IEEE Transactions on Smart Grid.
-* **Jiaman Wu**, and Chenye Wu. "On the Double Auction Mechanism Design for Electricity Market." In 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2020.
-* **Jiaman Wu**, Zhiqi Wang, Yang Yu, and Chenye Wu. "Optimal Storage Control for Dynamic Pricing." In Proceedings of the Eleventh ACM International Conference on Future Energy Systems, 2020.
+* **Jiaman Wu**, Chenbei Lu, Chenye Wu. "Learning-Aided Framework for Storage Control Facing Renewable Energy", **IEEE Systems Journal**, 2022.
+* Chenbei Lu, **Jiaman Wu**, Chenye Wu. "Privacy-Preserving Decentralized Price Coordination for EV Charging Stations", Power Systems Computation Conference (**PSCC 2022**), 2022.
+* **Jiaman Wu**, Chenbei Lu, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, and Jun Fang. "Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform." In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (**ACM Ubicomp 2021**), 2021.
+* Chenbei Lu, **Jiaman Wu**, Chenye Wu, Yongli Qin, Qun Li, and Nan Ma. "Efficiency or Fairness? Carpooling Design for Online Ride-hailing Platform in Transport Hubs at Midnight." In Proceedings of the 29th International Conference on Advances in Geographic Information Systems (**ACM SIGSPATIAL 2021**), 2021.
+* **Jiaman Wu**, Zhiqi Wang, Chenye Wu, Kui Wang, and Yang Yu. "A Data-driven Storage Control Framework for Dynamic Pricing." **IEEE Transactions on Smart Grid**.
+* **Jiaman Wu**, and Chenye Wu. "On the Double Auction Mechanism Design for Electricity Market." In 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (**IEEE SmartGridComm 2020**), 2020.
+* **Jiaman Wu**, Zhiqi Wang, Yang Yu, and Chenye Wu. "Optimal Storage Control for Dynamic Pricing." In Proceedings of the Eleventh ACM International Conference on Future Energy Systems (**ACM e-Energy 2020**) , 2020.
 
 
 ## Selected Awards and Honors
