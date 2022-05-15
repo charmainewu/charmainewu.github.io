@@ -3,12 +3,12 @@ title: About Me
 icon: fas fa-info-circle
 order: 1
 ---
-Jiaman is a Ph.D student majoring in Systems Engineering at the University of California, Berkeley. She loves **CS+Urban** researches and determines to advance her proficient understanding of urban practices by completing doctorate studies. She launched investigations on the **Energy System** and the **Transportation System** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
+Jiaman is a Ph.D. student majoring in Systems Engineering at the University of California, Berkeley. She loves **CS+Urban** research and is determined to advance her proficient understanding of urban practices by completing her doctorate studies. She launched investigations on the **Energy Systems** and the **Transportation Systems** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
 
 ## Research Interests
 
 * Theory
-    - Control, Optimization and Learning
+    - Control, Optimization, and Learning
     - Data Science
   
 * Application
@@ -19,7 +19,7 @@ Jiaman is a Ph.D student majoring in Systems Engineering at the University of Ca
 
 * Aug. 2021 - Present, Ph.D. in Systems Engineering, Dept. of CEE, University of California, Berkeley, Advisor: Prof. Marta C. Gonzalez.
 * Sep. 2018 - Jun. 2021, M.S. in Computer Science and Technology, IIIS, Tsinghua University.
-* Sep. 2014 - Jun. 2018, B.E. in Geographical Monitoring and Census, Dept. of Remote Sensing Information Engineering, Wuhan University.
+* Sep. 2014 - Jun. 2018, B.S. in Geographical Monitoring and Census, Dept. of Remote Sensing Information Engineering, Wuhan University.
 
 ## Employment
 
@@ -29,6 +29,7 @@ Jiaman is a Ph.D student majoring in Systems Engineering at the University of Ca
 
 * TPC Member of SmartGridComm 2022
 * Reviewer for The Power Systems Computation Conference (PSCC) 2022
+* Reviewer for IEEE Systems Journal
 
 ## Selected Publication
 
@@ -48,5 +49,4 @@ Jiaman is a Ph.D student majoring in Systems Engineering at the University of Ca
 * 2018 **Best Creative Project Award** from National College Students Innovation and Entrepreneurship Annual Conference
 * 2017 **Bronze Medalist** from "Internet +" College Students Innovation and Entrepreneurship Competition
 * 2016 **Silver Medalist** from Esri Cup GIS Software Development Competition (Awarded to only 2 of all participants nationwide)
-* 2015 **Yuanyi Scholarship** from Wuhan University (Awarded to only 30 of all students in the Wuhan University)
-
+* 2015 **Yuanyi Scholarship** from Wuhan University (Awarded to only 30 of all students at the Wuhan University)
