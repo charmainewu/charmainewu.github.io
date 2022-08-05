@@ -34,6 +34,7 @@ Jiaman is a Ph.D. student majoring in Systems Engineering at the University of C
 ## Selected Publication
 
 * **Jiaman Wu**, Chenbei Lu, Chenye Wu. "Learning-Aided Framework for Storage Control Facing Renewable Energy", **IEEE Systems Journal**, 2022.
+* Chenbei Lu, **Jiaman Wu**, Jingshi Cui, Yanyan Xu, Chenye Wu, and Marta C. Gonzalez. "Deadline Differentiated Dynamic EV Charging Price Menu Design." **IEEE Transactions on Smart Grid**, 2022.
 * Chenbei Lu, **Jiaman Wu**, Chenye Wu. "Privacy-Preserving Decentralized Price Coordination for EV Charging Stations", Power Systems Computation Conference (**PSCC 2022**), 2022.
 * **Jiaman Wu**, Chenbei Lu, Chenye Wu, Yongli Qin, Qun Li, Nan Ma, and Jun Fang. "Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform." In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (**ACM Ubicomp 2021**), 2021.
 * Chenbei Lu, **Jiaman Wu**, Chenye Wu, Yongli Qin, Qun Li, and Nan Ma. "Efficiency or Fairness? Carpooling Design for Online Ride-hailing Platform in Transport Hubs at Midnight." In Proceedings of the 29th International Conference on Advances in Geographic Information Systems (**ACM SIGSPATIAL 2021**), 2021.
