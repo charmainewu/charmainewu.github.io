@@ -37,10 +37,10 @@ Jiaman is a Ph.D. candidate majoring in Systems Engineering at the University of
 
 ## Feature Publications
 
-* **Jiaman Wu**, Chenbei Lu, Chenye Wu, Jian Shi, Marta C. Gonzalez, Dan Wang, Zhu Han. A Cluster-based Appliance-level-of-use Demand Response Program Design. **Applied Energy**, 2024.
-* **Jiaman Wu**, Siobhan Powell, Yanyan Xu, Ram Rajagopal, and Marta C. Gonzalez. Planning Charging Stations for 2050 to Support Flexible Electric Vehicle Demand Considering Individual Mobility Patterns. **Cell Reports Sustainability**, 2024.
-* **Jiaman Wu**, Chenbei Lu, Chenye Wu. Learning-Aided Framework for Storage Control Facing Renewable Energy. **IEEE Systems Journal**, 2022.
-* **Jiaman Wu**, Zhiqi Wang, Chenye Wu, Kui Wang, and Yang Yu. A Data-driven Storage Control Framework for Dynamic Pricing. **IEEE Transactions on Smart Grid**, 2021.
+* **Jiaman Wu**, Chenbei Lu, Chenye Wu, Jian Shi, Marta C. Gonzalez, Dan Wang, Zhu Han. A Cluster-based Appliance-level-of-use Demand Response Program Design. **Applied Energy**.
+* **Jiaman Wu**, Siobhan Powell, Yanyan Xu, Ram Rajagopal, and Marta C. Gonzalez. Planning Charging Stations for 2050 to Support Flexible Electric Vehicle Demand Considering Individual Mobility Patterns. **Cell Reports Sustainability**.
+* **Jiaman Wu**, Chenbei Lu, Chenye Wu. Learning-Aided Framework for Storage Control Facing Renewable Energy. **IEEE Systems Journal**.
+* **Jiaman Wu**, Zhiqi Wang, Chenye Wu, Kui Wang, and Yang Yu. A Data-driven Storage Control Framework for Dynamic Pricing. **IEEE Transactions on Smart Grid**.
 
 
 ## Selected Awards and Honors
