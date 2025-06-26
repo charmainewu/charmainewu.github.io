@@ -26,14 +26,14 @@ There are Ph.D. and Postdoc openings at Dr. Jiaman Wu’s lab in the Department 
 
 My research leverages large-scale human activity datasets to analyze and optimize energy and transportation systems. The methodologies and application areas are as follows.
 
-**Methodologies**
+* **Methodologies**
     - Optimization (discrete, or stochastic)
     - Control Theory 
     - Machine learning and deep learning
     - Mechanism design and game theory
     - Network science and statistical physics of complex systems
 
-**Applications**
+* **Applications**
     - Human dynamics modeling and analytics in transportation-energy systems
     - Vehicle-grid integration
     - Electric fleet operation and smart charging
