@@ -3,7 +3,7 @@ title: About Me
 icon: fas fa-info-circle
 order: 1
 ---
-Jiaman is a Ph.D. candidate majoring in Systems Engineering at the University of California, Berkeley. She launched investigations on the **Energy Systems** and the **Transportation Systems** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
+Jiaman is an incoming Assistant Professor in the Department of Data Science at City University of Hong Kong (CityUHK). She launched investigations on the **Energy Systems** and the **Transportation Systems** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
 
 ## Research Interests
 
