@@ -2,7 +2,7 @@
 title: A Cluster-based Appliance-level-of-use Demand Response Program Design
 author: Jiaman Wu, Chenbei Lu, Chenye Wu, Jian Shi, Marta C. Gonzalez, Dan Wang, Zhu Han
 date: 2024-03-05 00:00:00 +0800
-categories: [Applied Computing]
+categories: [Smart Grid]
 tags: [Demand Response, Optimization]
 pin: False
 ---
