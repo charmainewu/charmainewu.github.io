@@ -1,7 +1,7 @@
 ---
 title: Ph.D and Postdoctoral Fellow Positions in Data Science, City University of Hong Kong
 author: Jiaman Wu
-date: 2025-06-28 00:00:00 +0800
+date: 2025-06-25 00:00:00 +0800
 categories: [Recruitment]
 tags: [Recruitment]
 pin: True
