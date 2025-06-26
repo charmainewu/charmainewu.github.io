@@ -14,7 +14,6 @@ Jiaman is a Ph.D. candidate majoring in Systems Engineering at the University of
     - Mechanism design and game theory
     - Network science and statistical physics of complex systems
 
-  
 * Applications
     - Human dynamics modeling and analytics in transportation-energy systems
     - Vehicle-grid integration
@@ -30,17 +29,19 @@ Jiaman is a Ph.D. candidate majoring in Systems Engineering at the University of
 
 ## Professional Experience 
 
-* Jul. 2023 - Aug. 2023 Intern in PNNL
-* Jul. 2020 - Jun. 2021 Intern in DiDi Chuxing
+* Jul. 2023 - Aug. 2023 Intern @ Resilient Control Methods Group, **Pacific Northwest National Laboratory**.
+Work on Autonomous Intelligent Assistant (AutonomIA): Resilient and Energy-Efficient City-wide Transportation Operations
+* Jul. 2020 - Jun. 2021 Intern @ Data Science Institute, **DiDi Global Inc**. Work on GAIA initiative to facilitate data-driven research in transportation
 
 ## Academic Service
 
 * Reviewer for IEEE Transactions on Smart Grid
+* Reviewer for IEEE Transactions on Industry Applications
+* Reviewer for IEEE Systems Journal
 * Reviewer for Electric Power Systems Research
 * Reviewer for International Journal of Electrical Power and Energy Systems
-* Reviewer for IEEE Systems Journal
 * Reviewer for The Power Systems Computation Conference (PSCC) 2022
-* Technical Program Committee (TPC) Member of IEEE SmartGridComm 2022
+* Technical Program Committee (TPC) Member of IEEE SmartGridComm 2022, 2024, 2025
 
 ## Feature Publications
 
@@ -51,6 +52,6 @@ Jiaman is a Ph.D. candidate majoring in Systems Engineering at the University of
 
 
 ## Selected Awards and Honors
-
-* 2021 **Ning's Fellowship** from UC Berkeley
+* 2021-2023 **Ning's Fellowship** from UC Berkeley.
+* 2022 **Summer Grant Award**. University of California, Berkeley.
 * 2021 **Outstanding Graduate Student Award** from IIIS, Tsinghua University
