@@ -10,7 +10,7 @@ pin: True
 <br/>
 <br/>
 <p align="center">
-  <img src="../assets/fig/cityulogo.jpg" width="900">
+  <img src="../assets/fig/cityulogo.jpg" width="500">
   <br><i> </i>
 </p>
 
