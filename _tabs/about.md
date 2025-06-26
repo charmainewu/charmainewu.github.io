@@ -7,17 +7,24 @@ Jiaman is a Ph.D. candidate majoring in Systems Engineering at the University of
 
 ## Research Interests
 
-* Theory
-    - Control, Optimization, and Learning
-    - Data Science
+* Methodologies
+    - Optimization (discrete, or stochastic)
+    - Control Theory 
+    - Machine learning and deep learning
+    - Mechanism design and game theory
+    - Network science and statistical physics of complex systems
+
   
-* Application
-    - Electric Vehicles and Smart Grid
-    - Human Mobility and Energy Consumption Behavior
+* Applications
+    - Human dynamics modeling and analytics in transportation-energy systems
+    - Vehicle-grid integration
+    - Electric fleet operation and smart charging
+    - Transportation-energy infrastructure planning
+    - Smart grid management
 
 ## Education Background 
 
-* Aug. 2021 - Present, Ph.D. in Systems Engineering, Dept. of CEE, University of California, Berkeley, Advisor: Prof. Marta C. Gonzalez.
+* Aug. 2021 - May 2025, Ph.D. in Systems Engineering, Dept. of CEE, University of California, Berkeley, Advisor: Prof. Marta C. Gonzalez.
 * Sep. 2018 - Jun. 2021, M.S. in Computer Science and Technology, IIIS, Tsinghua University.
 * Sep. 2014 - Jun. 2018, B.S. in Geographical Monitoring and Census, Dept. of Remote Sensing Information Engineering, Wuhan University.
 
