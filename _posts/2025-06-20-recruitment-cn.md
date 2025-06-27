@@ -8,7 +8,7 @@ pin: False
 ---
 
 <p align="center">
-  <img src="/assets/fig/cityulogo.jpg" width="500">
+  <img src="/assets/fig/cityulogo.jpg" width="300">
   <br><i> </i>
 </p>
 
