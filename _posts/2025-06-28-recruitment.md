@@ -79,6 +79,6 @@ Located in the heart of Hong Kong, CityUHK is renowned as an innovative hub for 
 <br/>
 <br/>
 <p align="center">
-  <img src="https://github.com/charmainewu/charmainewu.github.io/tree/main/assets/fig/cityucampus.png" width="900">
+  <img src="/assets/fig/cityucampus.png" width="900">
   <br><i> </i>
 </p>
