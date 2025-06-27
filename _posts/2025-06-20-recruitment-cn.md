@@ -7,10 +7,6 @@ tags: [Recruitment]
 pin: False
 ---
 
-<p align="left">
-  <img src="/assets/fig/cityulogo.jpg" width="300">
-  <br><i> </i>
-</p>
 
 ## 🌟 招生简介
 
