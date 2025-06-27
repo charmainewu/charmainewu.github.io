@@ -18,7 +18,7 @@ pin: True
 # Ph.D. and Postdoctoral Fellow Positions in Data Science  
 **City University of Hong Kong**  
 
-There are Ph.D. and Postdoc openings at Dr. Jiaman Wu’s lab in the Department of Data Science (DS), City University of Hong Kong (CityUHK). The lab focuses on combining large-scale datasets with computational techniques to support human-centered complex system operations.
+There are Ph.D. and Postdoc openings at Dr. Jiaman Wu’s lab in the Department of Data Science (DS), City University of Hong Kong (CityUHK). The lab focuses on combining large-scale datasets with computational techniques to support human-centered complex system operations. 
 
 ---
 
@@ -28,7 +28,6 @@ My research leverages large-scale human activity datasets to analyze and optimiz
 
 * **Methodologies**
     - Optimization (discrete, or stochastic)
-    - Control Theory 
     - Machine learning and deep learning
     - Mechanism design and game theory
     - Network science and statistical physics of complex systems
