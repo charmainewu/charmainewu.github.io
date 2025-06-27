@@ -7,10 +7,11 @@ tags: [Recruitment]
 pin: True
 ---
 
+
 <br/>
 <br/>
 <p align="center">
-  <img src="../assets/fig/cityulogo.jpg" width="500">
+  <img src="https://github.com/charmainewu/charmainewu.github.io/tree/main/assets/fig/cityulogo.jpg" width="500">
   <br><i> </i>
 </p>
 
@@ -78,6 +79,6 @@ Located in the heart of Hong Kong, CityUHK is renowned as an innovative hub for 
 <br/>
 <br/>
 <p align="center">
-  <img src="../assets/fig/cityucampus.png" width="900">
+  <img src="https://github.com/charmainewu/charmainewu.github.io/tree/main/assets/fig/cityucampus.png" width="900">
   <br><i> </i>
 </p>
