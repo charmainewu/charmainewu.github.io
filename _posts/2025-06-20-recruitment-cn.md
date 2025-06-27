@@ -7,7 +7,7 @@ tags: [Recruitment]
 pin: False
 ---
 
-<p align="center">
+<p align="left">
   <img src="/assets/fig/cityulogo.jpg" width="300">
   <br><i> </i>
 </p>
