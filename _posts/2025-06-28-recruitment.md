@@ -20,7 +20,7 @@ There are Ph.D. and Postdoc openings at Dr. Jiaman Wu’s lab in the Department 
 My research leverages large-scale human activity datasets to analyze and optimize energy and transportation systems. The methodologies and application areas are as follows.
 
 * **Methodologies**
-    - Optimization (discrete, or stochastic)
+    - Optimization
     - Machine learning
     - Mechanism design
     - Network science and statistical physics of complex systems
