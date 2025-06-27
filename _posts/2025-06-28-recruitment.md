@@ -7,11 +7,6 @@ tags: [Recruitment]
 pin: True
 ---
 
-<p align="left">
-  <img src="/assets/fig/cityulogo.jpg" width="300">
-  <br><i> </i>
-</p>
-
 
 # Ph.D. and Postdoctoral Fellow Positions in Data Science  
 **City University of Hong Kong**  
