@@ -4,7 +4,7 @@ author: Jiaman Wu
 date: 2025-06-20 00:00:00 +0800
 categories: [Recruitment]
 tags: [Recruitment]
-pin: True
+pin: False
 ---
 
 
@@ -21,14 +21,14 @@ My research leverages large-scale human activity datasets to analyze and optimiz
 
 * **Methodologies**
     - Optimization (discrete, or stochastic)
-    - Machine learning and deep learning
-    - Mechanism design and game theory
+    - Machine learning
+    - Mechanism design
     - Network science and statistical physics of complex systems
 
 * **Applications**
     - Human dynamics modeling and analytics in transportation-energy systems
     - Vehicle-grid integration
-    - Electric fleet operation and smart charging
+    - Electric fleet operation
     - Transportation-energy infrastructure planning
     - Smart grid management
     
@@ -60,7 +60,7 @@ Include your CV, a 1–2 page research statement, referee contact information, a
 
 ## About the PI
 
-Dr. Jiaman Wu will join CityUHK as an Assistant Professor in July 2025. She received her Ph.D. in Systems Engineering from UC Berkeley, and previously earned her B.Eng and M.Sc. from Wuhan University and Tsinghua University, respectively. Her research on data-driven energy and transportation system operations has been published in *Applied Energy*, *IEEE Transactions on Smart Grid*, and *Cell Reports Sustainability*. More information can be found on her [personal website](https://charmainewu.github.io/about/).
+Dr. Jiaman Wu will join the Department of Data Science at City University of Hong Kong as an Assistant Professor in July 2025. She received her Ph.D. in Systems Engineering from the University of California, Berkeley, and completed her undergraduate and master’s studies at Wuhan University and Tsinghua University, respectively. Her research focuses on data-driven modeling and optimization of energy and transportation systems. Dr. Wu has collaborated with scholars from institutions including UC Berkeley, Stanford University, MIT, ETH Zurich, Tsinghua University, Nanjing University, and the Chinese University of Hong Kong (Shenzhen), with research published in leading journals such as Applied Energy, IEEE Transactions on Smart Grid, and Cell Reports Sustainability. She has also interned at DiDi Chuxing and the Pacific Northwest National Laboratory (PNNL), gaining extensive experience in academia–industry collaborations. Dr. Wu welcomes students to join her research group. She is willing to provide ample computing resources and opportunities for collaboration with both academia and industry to support high-impact research. More information can be found on her [personal website](https://charmainewu.github.io/about/).
 
 ---
 
