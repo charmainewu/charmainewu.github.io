@@ -67,7 +67,7 @@ pin: True
 
 ## 👩‍🏫 导师介绍
 
-吴佳蔓博士将于2025年7月起担任香港城市大学数据科学系助理教授。她于加州大学伯克利分校获得Systems Engineering博士学位，先后在武汉大学和清华大学完成本硕学业。她的研究聚焦于数据驱动的能源与交通系统的建模与优化。她曾与来自Berkeley、Stanford、MIT、ETH Zurich、清华大学、南京大学及香港中文大学（深圳）等高校的学者开展合作，其研究成果发表在 Applied Energy、IEEE Transactions on Smart Grid、Cell Reports Sustainability 等国际期刊上。她曾在滴滴出行与美国太平洋西北国家实验室实习，具有丰富的产学研合作经验。吴博士欢迎学生申请加入其课题组，并将为学生提供充足的计算资源，以及与学术界和工业界交流合作的机会，支持高影响力的科研工作。更多信息见[个人主页](https://charmainewu.github.io/about/)。
+吴佳蔓博士将于2025年7月起担任香港城市大学数据科学系助理教授。她于加州大学伯克利分校获得Systems Engineering博士学位，先后在武汉大学和清华大学完成本硕学业。她的研究聚焦于数据驱动的能源与交通系统的建模与优化。她曾与来自Berkeley、Stanford、MIT、ETH Zurich、清华大学、南京大学及香港中文大学（深圳）等高校的学者开展合作，其研究成果发表在 Applied Energy、IEEE Transactions on Smart Grid、Cell Reports Sustainability 等国际期刊上。她曾在滴滴出行与美国太平洋西北国家实验室实习，具有丰富的产学研合作经验。吴博士将为学生提供充足的计算资源，以及与学术界和工业界交流合作的机会，支持高影响力的科研工作。更多信息见[个人主页](https://charmainewu.github.io/about/)。
 
 ---
 
