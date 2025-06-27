@@ -7,6 +7,9 @@ tags: [Recruitment]
 pin: False
 ---
 
+![oops](/assets/fig/cityulogo.jpg){: .shadow width="1548" height="864" style="max-width: 50%" }
+![oops](/assets/fig/energy_multi.png){: .shadow width="1548" height="864" style="max-width: 50%" }
+
 <br/>
 <br/>
 <p align="center">
@@ -42,7 +45,7 @@ pin: False
 ## 🎓 博士研究生
 
 **申请条件**：  
-欢迎具有数据科学、计算机科学、运筹学与工业工程、电气工程、土木工程、机械工程、应用数学或相关背景的申请者。申请人需满足香港城市大学研究生院的最低入学要求，具体可参考[官网](https://www.cityu.edu.hk/sgs/)。
+欢迎具有数据科学、计算机科学、运筹学与工业工程、电气工程、土木工程、机械工程、应用数学或相关背景的申请者。申请人需满足香港城市大学研究生院的最低入学要求，具体可参考[官网](https://www.cityu.edu.hk/pg/research-degree-programmes/entrance-requirements)。
 
 **申请方式**：  
 请将以下材料发送至 `jmwu@berkeley.edu`，邮件标题为：  
@@ -73,7 +76,7 @@ pin: False
 
 ## 👩‍🏫 导师介绍
 
-吴佳蔓博士将于2025年7月起任香港城市大学数据科学系助理教授。她本科及硕士毕业于武汉大学和清华大学，博士毕业于加州大学伯克利分校系统工程专业。她的研究聚焦于数据驱动的能源与交通系统建模与优化，研究成果发表在 *Applied Energy*、*IEEE Transactions on Smart Grid*、*Cell Reports Sustainability* 等国际顶级期刊。
+吴佳蔓博士将于2025年7月起任香港城市大学数据科学系助理教授。她本科及硕士毕业于武汉大学和清华大学，博士毕业于加州大学伯克利分校系统工程专业。她的研究聚焦于数据驱动的能源与交通系统建模与优化，研究成果发表在 *Applied Energy*、*IEEE Transactions on Smart Grid*、*Cell Reports Sustainability* 等国际顶级期刊。更多信息请见[个人主页](https://charmainewu.github.io/about/)。
 
 ---
 
