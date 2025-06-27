@@ -7,9 +7,6 @@ tags: [Recruitment]
 pin: False
 ---
 
-![oops](/assets/fig/cityulogo.jpg){: .shadow width="1548" height="864" style="max-width: 50%" }
-![oops](/assets/fig/energy_multi.png){: .shadow width="1548" height="864" style="max-width: 50%" }
-
 <br/>
 <br/>
 <p align="center">
