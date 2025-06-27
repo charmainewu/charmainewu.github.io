@@ -10,7 +10,7 @@ pin: False
 <br/>
 <br/>
 <p align="center">
-  <img src="../assets/fig/cityulogo.jpg" width="500">
+  <img src="/assets/fig/cityulogo.jpg" width="500">
   <br><i> </i>
 </p>
 
@@ -89,6 +89,6 @@ pin: False
 <br/>
 <br/>
 <p align="center">
-  <img src="../assets/fig/cityucampus.png" width="900">
+  <img src="/assets/fig/cityucampus.png" width="900">
   <br><i> </i>
 </p>
