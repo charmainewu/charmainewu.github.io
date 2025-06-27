@@ -73,8 +73,6 @@ Dr. Jiaman Wu will join CityUHK as an Assistant Professor in July 2025. She rece
 
 Located in the heart of Hong Kong, CityUHK is renowned as an innovative hub for research and education and for addressing global challenges. CityUHK is ranked **54th** in the *2025 U.S. News Global University Rankings*. The Department of Data Science is committed to becoming a world-class center for data science education and research. Notably, the **Data Science and AI program** is ranked **45th** in the *2025 QS World University Rankings*.
 
-<br/>
-<br/>
 <p align="center">
   <img src="/assets/fig/cityucampus.png" width="900">
   <br><i> </i>
