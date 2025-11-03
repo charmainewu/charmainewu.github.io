@@ -34,21 +34,10 @@ Work on Autonomous Intelligent Assistant (AutonomIA): Resilient and Energy-Effic
 
 ## Academic Service
 
-* Reviewer for Applied Energy
-* Reviewer for IEEE Transactions on Transportation Electrification
-* Reviewer for IEEE Transactions on Smart Grid
-* Reviewer for IEEE Transactions on Industry Applications
-* Reviewer for IEEE Systems Journal
-* Reviewer for Electric Power Systems Research
-* Reviewer for International Journal of Electrical Power and Energy Systems
-* Reviewer for The Power Systems Computation Conference (PSCC) 2022
+* Reviewer for Applied Energy, IEEE Transactions on Transportation Electrification, IEEE Transactions on Smart Grid, IEEE Transactions on Industry Applications, IEEE Systems Journal, Electric Power Systems Research
 * Technical Program Committee (TPC) Member of IEEE SmartGridComm 2022, 2024, 2025
-
-## Feature Publications
-
-* **Jiaman Wu**, Chenbei Lu, Chenye Wu, Jian Shi, Marta C. Gonzalez, Dan Wang, Zhu Han. A Cluster-based Appliance-level-of-use Demand Response Program Design. **Applied Energy**.
-* **Jiaman Wu**, Siobhan Powell, Yanyan Xu, Ram Rajagopal, and Marta C. Gonzalez. Planning Charging Stations for 2050 to Support Flexible Electric Vehicle Demand Considering Individual Mobility Patterns. **Cell Reports Sustainability**.
-* **Jiaman Wu**, Zhiqi Wang, Chenye Wu, Kui Wang, and Yang Yu. A Data-driven Storage Control Framework for Dynamic Pricing. **IEEE Transactions on Smart Grid**.
+* BPC Co-chair of ACM SIGSPATIAL 2025
+* Poster Session Co-chair of ACM eEnergy 2026
 
 
 ## Selected Awards and Honors
