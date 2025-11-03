@@ -40,7 +40,7 @@ My research leverages large-scale human activity datasets to analyze and optimiz
 I seek self-motivated, curious minds with backgrounds in Data Science, Computer Science, Operations Research and Industrial Engineering, Electrical Engineering, Civil Engineering, Mechanical Engineering, Applied Mathematics, or related fields. The minimum entrance requirements of CityUHK can be found [here](https://www.cityu.edu.hk/pg/research-degree-programmes/entrance-requirements).
 
 **How to Apply**:  
-If you are interested in working with me, please send an email to `jmwu@berkeley.edu` with the subject line:  
+If you are interested in working with me, please send an email to `jm.wu at cityu.edu.hk` with the subject line:  
 **"Prospective PhD Student - [Your Name] - [Expected Start Time]"**  
 Include your CV, transcript, a brief paragraph describing your research interests, and any relevant materials.
 
