@@ -52,7 +52,7 @@ Include your CV, transcript, a brief paragraph describing your research interest
 Candidates applying for the Postdoctoral Fellow position should hold a Ph.D. in Data Science, Computer Science, Operations Research, Industrial Engineering, Electrical Engineering, Civil Engineering, Mechanical Engineering, Applied Mathematics, or a related field. Applicants should have demonstrated research experience aligned with the group’s core areas. Proficiency in at least one programming language is required. Preference will be given to candidates with publications in top-tier journals and conferences.
 
 **How to Apply**:  
-If you are interested in working with me, please send an email to `jmwu@berkeley.edu` with the subject line:  
+If you are interested in working with me, please send an email to `jm.wu at cityu.edu.hk` with the subject line:  
 **"Prospective Postdoc Fellow - [Your Name] - [Expected Start Time]"**  
 Include your CV, a 1–2 page research statement, referee contact information, and any relevant materials.
 
