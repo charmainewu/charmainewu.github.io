@@ -34,6 +34,8 @@ Work on Autonomous Intelligent Assistant (AutonomIA): Resilient and Energy-Effic
 
 ## Academic Service
 
+* Reviewer for Applied Energy
+* Reviewer for IEEE Transactions on Transportation Electrification
 * Reviewer for IEEE Transactions on Smart Grid
 * Reviewer for IEEE Transactions on Industry Applications
 * Reviewer for IEEE Systems Journal
