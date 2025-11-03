@@ -9,7 +9,6 @@ I'm an Assistant Professor in the Department of Data Science at City University 
 
 * Methodologies
     - Optimization (discrete, or stochastic)
-    - Control Theory 
     - Machine learning and deep learning
     - Mechanism design and game theory
     - Network science and statistical physics of complex systems
