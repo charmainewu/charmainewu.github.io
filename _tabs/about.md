@@ -3,7 +3,7 @@ title: About Me
 icon: fas fa-info-circle
 order: 1
 ---
-Jiaman is an incoming Assistant Professor in the Department of Data Science at City University of Hong Kong (CityUHK). She launched investigations on the **Energy Systems** and the **Transportation Systems** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
+I'm an Assistant Professor in the Department of Data Science at City University of Hong Kong (CityUHK). She launched investigations on the **Energy Systems** and the **Transportation Systems** through data-driven methods. She aimed to understand the urban system by data and deliver reliable results to improve and innovate the urban systems constantly. 
 
 ## Research Interests
 
@@ -47,7 +47,6 @@ Work on Autonomous Intelligent Assistant (AutonomIA): Resilient and Energy-Effic
 
 * **Jiaman Wu**, Chenbei Lu, Chenye Wu, Jian Shi, Marta C. Gonzalez, Dan Wang, Zhu Han. A Cluster-based Appliance-level-of-use Demand Response Program Design. **Applied Energy**.
 * **Jiaman Wu**, Siobhan Powell, Yanyan Xu, Ram Rajagopal, and Marta C. Gonzalez. Planning Charging Stations for 2050 to Support Flexible Electric Vehicle Demand Considering Individual Mobility Patterns. **Cell Reports Sustainability**.
-* **Jiaman Wu**, Chenbei Lu, Chenye Wu. Learning-Aided Framework for Storage Control Facing Renewable Energy. **IEEE Systems Journal**.
 * **Jiaman Wu**, Zhiqi Wang, Chenye Wu, Kui Wang, and Yang Yu. A Data-driven Storage Control Framework for Dynamic Pricing. **IEEE Transactions on Smart Grid**.
 
 
